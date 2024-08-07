@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tatevik Khachatryan
 ===========================================================================================================================================
 
-Front-End Engineer
+Software Engineer
 ------------------
 
-I am a Front-End Developer with over 3 years of experience focused on meeting objectives with innovative applications and clean code. A quick learner with a strong background who works well with the team to handle assignments and is always ready to go beyond basic tasks.
+I am a Software Engineer with over 3 years of experience focused on meeting objectives with innovative applications and clean code. A quick learner with a strong background who works well with the team to handle assignments and is always ready to go beyond basic tasks.
 
 * 🌍  I'm based in Yerevan, Armenia
-* 🧠  I'm learning python
+* 🧠  I'm learning Python
 
 ### Skills
 
